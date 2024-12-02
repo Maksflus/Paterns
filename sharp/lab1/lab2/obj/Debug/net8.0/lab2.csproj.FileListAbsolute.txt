@@ -1,0 +1,14 @@
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\ackom\OneDrive\Desktop\Патерни\шарпи\lab1\lab2\obj\Debug\net8.0\ref\lab2.dll

@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B88229A-8B2B-41D8-BD84-C115B97B5FBD}|lab23\\lab23.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B88229A-8B2B-41D8-BD84-C115B97B5FBD}|lab23\\lab23.csproj|solutionrelative:lab23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B449CCC4-E732-446C-9554-44084085FB3B}|lab22\\lab22.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B449CCC4-E732-446C-9554-44084085FB3B}|lab22\\lab22.csproj|solutionrelative:lab22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83AAA20-2524-4BD2-B02E-811F9033A17E}|lab21\\lab21.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83AAA20-2524-4BD2-B02E-811F9033A17E}|lab21\\lab21.csproj|solutionrelative:lab21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614C7A1-4921-45B4-8E5F-82A44DE07455}|lab20\\lab20.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614C7A1-4921-45B4-8E5F-82A44DE07455}|lab20\\lab20.csproj|solutionrelative:lab20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF131AB-688E-4808-9569-2948567B5937}|lab19\\lab19.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF131AB-688E-4808-9569-2948567B5937}|lab19\\lab19.csproj|solutionrelative:lab19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CA8A67-735A-4831-B9ED-5E6259436D6A}|lab18\\lab18.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CA8A67-735A-4831-B9ED-5E6259436D6A}|lab18\\lab18.csproj|solutionrelative:lab18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B577AA87-44D5-4084-9E01-8078F204B858}|lab17\\lab17.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B577AA87-44D5-4084-9E01-8078F204B858}|lab17\\lab17.csproj|solutionrelative:lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF81435C-5061-490C-8A6B-F3519CEDEE38}|lab16\\lab16.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF81435C-5061-490C-8A6B-F3519CEDEE38}|lab16\\lab16.csproj|solutionrelative:lab16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E410B52-0910-401B-B0C5-2371A4771964}|lab15\\lab15.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E410B52-0910-401B-B0C5-2371A4771964}|lab15\\lab15.csproj|solutionrelative:lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A533640-7367-4452-B11D-AB0ED3716EA7}|lab14\\lab14.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A533640-7367-4452-B11D-AB0ED3716EA7}|lab14\\lab14.csproj|solutionrelative:lab14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92978ACC-9456-46B0-BE38-934CB6F7D0A8}|lab13\\lab13.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92978ACC-9456-46B0-BE38-934CB6F7D0A8}|lab13\\lab13.csproj|solutionrelative:lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B097774-E548-4FA2-A020-BAB39E6A685A}|lab12\\lab12.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B097774-E548-4FA2-A020-BAB39E6A685A}|lab12\\lab12.csproj|solutionrelative:lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E46228-D79C-4D39-9881-C9FE7DA0EBA3}|lab2\\lab2.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E46228-D79C-4D39-9881-C9FE7DA0EBA3}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366881BF-917E-4888-841C-F2FEEDAF8EA9}|lab11\\lab11.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366881BF-917E-4888-841C-F2FEEDAF8EA9}|lab11\\lab11.csproj|solutionrelative:lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25B99B2-9650-4B9A-954E-60062BE272A6}|lab10\\lab10.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25B99B2-9650-4B9A-954E-60062BE272A6}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8C3C93-503F-4800-8CBD-351289232108}|lab9\\lab9.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8C3C93-503F-4800-8CBD-351289232108}|lab9\\lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEA3974-2BF2-4422-859B-46CA99EE158A}|lab8\\lab8.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEA3974-2BF2-4422-859B-46CA99EE158A}|lab8\\lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D992B6FC-5AE2-4992-B0DE-711132949BEF}|lab7\\lab7.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D992B6FC-5AE2-4992-B0DE-711132949BEF}|lab7\\lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B2AAD7-C669-4F19-B74D-5637E2387416}|lab6\\lab6.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B2AAD7-C669-4F19-B74D-5637E2387416}|lab6\\lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B718B66-164E-4169-B697-4D99594E77F5}|lab5\\lab5.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B718B66-164E-4169-B697-4D99594E77F5}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C768A462-8168-4608-8627-34EA58210027}|lab4\\lab4.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C768A462-8168-4608-8627-34EA58210027}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE298757-EDD3-40EA-83E8-C0056777B49A}|lab3\\lab3.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE298757-EDD3-40EA-83E8-C0056777B49A}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7182552B-8BE0-41D6-AB90-4CDA1F3B24A0}|lab1\\lab1.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7182552B-8BE0-41D6-AB90-4CDA1F3B24A0}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E46228-D79C-4D39-9881-C9FE7DA0EBA3}|lab2\\lab2.csproj|c:\\users\\ackom\\onedrive\\desktop\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06E46228-D79C-4D39-9881-C9FE7DA0EBA3}|lab2\\lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab15\\Program.cs",
+              "RelativeDocumentMoniker": "lab15\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab15\\Program.cs",
+              "RelativeToolTip": "lab15\\Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAA4wHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:47:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab16\\Program.cs",
+              "RelativeDocumentMoniker": "lab16\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab16\\Program.cs",
+              "RelativeToolTip": "lab16\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:47:59.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab17\\Program.cs",
+              "RelativeDocumentMoniker": "lab17\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab17\\Program.cs",
+              "RelativeToolTip": "lab17\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:48:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab18\\Program.cs",
+              "RelativeDocumentMoniker": "lab18\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab18\\Program.cs",
+              "RelativeToolTip": "lab18\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:48:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab19\\Program.cs",
+              "RelativeDocumentMoniker": "lab19\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab19\\Program.cs",
+              "RelativeToolTip": "lab19\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwDoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:48:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab20\\Program.cs",
+              "RelativeDocumentMoniker": "lab20\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab20\\Program.cs",
+              "RelativeToolTip": "lab20\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:48:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab21\\Program.cs",
+              "RelativeDocumentMoniker": "lab21\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab21\\Program.cs",
+              "RelativeToolTip": "lab21\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:49:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab22\\Program.cs",
+              "RelativeDocumentMoniker": "lab22\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab22\\Program.cs",
+              "RelativeToolTip": "lab22\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:49:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab23\\Program.cs",
+              "RelativeDocumentMoniker": "lab23\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab23\\Program.cs",
+              "RelativeToolTip": "lab23\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:49:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab14\\Program.cs",
+              "RelativeDocumentMoniker": "lab14\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab14\\Program.cs",
+              "RelativeToolTip": "lab14\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:47:29.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab13\\Program.cs",
+              "RelativeDocumentMoniker": "lab13\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab13\\Program.cs",
+              "RelativeToolTip": "lab13\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:47:19.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab12\\Program.cs",
+              "RelativeDocumentMoniker": "lab12\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab12\\Program.cs",
+              "RelativeToolTip": "lab12\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA4wFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:36:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:16:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab11\\Program.cs",
+              "RelativeDocumentMoniker": "lab11\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab11\\Program.cs",
+              "RelativeToolTip": "lab11\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:36:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab10\\Program.cs",
+              "RelativeDocumentMoniker": "lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab10\\Program.cs",
+              "RelativeToolTip": "lab10\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:35:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab9\\Program.cs",
+              "RelativeDocumentMoniker": "lab9\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab9\\Program.cs",
+              "RelativeToolTip": "lab9\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:35:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab8\\Program.cs",
+              "RelativeDocumentMoniker": "lab8\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab8\\Program.cs",
+              "RelativeToolTip": "lab8\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA4wEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:35:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab7\\Program.cs",
+              "RelativeDocumentMoniker": "lab7\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab7\\Program.cs",
+              "RelativeToolTip": "lab7\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:35:00.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "lab6\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab6\\Program.cs",
+              "RelativeToolTip": "lab6\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA4wFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:33:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab5\\Program.cs",
+              "RelativeToolTip": "lab5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:29:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:27:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:22:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "lab2",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\lab2.csproj",
+              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab2\\lab2.csproj",
+              "RelativeToolTip": "lab2\\lab2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T21:21:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\ackom\\OneDrive\\Desktop\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438\\\u0448\u0430\u0440\u043F\u0438\\lab1\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:26:16.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
